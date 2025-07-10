@@ -406,7 +406,7 @@ section { position: relative; overflow: hidden; }
   width: 400px;
   font-size: 30px;
   font-weight: 400;
-  height: 400px;
+  height: 450px;
   padding: 25px;
   border-radius: 27px;
   text-align: center;
@@ -416,7 +416,7 @@ section { position: relative; overflow: hidden; }
   font-size: 36px;
   font-weight: 400;
   width: 450px;
-  height: 500px;
+  height: 600px;
 }
 .testimonial img { 
   height: 70px; 
