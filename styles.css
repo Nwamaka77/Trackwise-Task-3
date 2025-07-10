@@ -5,8 +5,10 @@ body {
   color: #000;
   background-color: #fff;
 }
-section { position: relative; overflow: hidden; }
-
+section { 
+position: relative; 
+overflow: hidden; 
+}
 /* === Blob & Background Images === */
 .grainy-bg {
   position: absolute;
